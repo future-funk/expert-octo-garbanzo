@@ -13,3 +13,4 @@ jobs:
         with:
           fail-on-severity: moderate
           deny-licenses: LGPL-2.0, BSD-2-Clause
+          allow-licenses: NOASSERTION
